@@ -1,4 +1,5 @@
 click on raw to make it readable
+(only works on pc) i think
 
 Random Number Counter
 Introduction
