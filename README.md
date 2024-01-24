@@ -1,3 +1,5 @@
+click on raw to make it readable
+
 Random Number Counter
 Introduction
 Welcome to the Random Number Counter application! This Java program generates random numbers and counts how many of them are greater than 99. The user can adjust the number of tries to customize the experiment.
